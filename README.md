@@ -1,19 +1,64 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,30:6D28D9,70:7C3AED,100:9333EA&text=Rafat%20Abu%20Rajab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+.NET+Developer;Building+Scalable+Enterprise+Applications;Passionate+About+AI%2C+Cloud+and+Product+Engineering;Always+Learning.+Always+Building."/>
+
+<br/>
+
+![](https://img.shields.io/badge/B.Sc-Software%20Engineering-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Full%20Stack-ASP.NET-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
+
+<br/>
+
+![](https://img.shields.io/badge/Location-Amman,%20Jordan-4338CA?style=flat-square)
+![](https://img.shields.io/badge/Open%20to-Internships%20%26%20Graduate%20Roles-6D28D9?style=flat-square)
+
+<br/><br/>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RafatAbuRajab">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/yourusername?style=flat-square&color=6D28D9)
+![](https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=flat-square&color=4F46E5)
+
+</div>
+
+---
+
 # About
 
-I am **Rafat AbuRajab**, a **Full Stack ASP.NET MVC Developer** and **Software Engineering student** passionate about building modern, scalable, and user-friendly web applications using Microsoft's technology stack.
+I am a **Software Engineering student** and **Full Stack .NET Developer** passionate about designing secure, scalable, and enterprise-grade software solutions.
 
-My expertise focuses on designing and developing complete web solutions with **ASP.NET MVC, C#, Entity Framework Core, SQL Server, HTML, CSS, JavaScript, and Bootstrap**. I enjoy transforming ideas into reliable software while following clean architecture principles and software engineering best practices.
+My interests span **Software Engineering**, **Artificial Intelligence**, **Cloud Computing**, **Backend Architecture**, and **Product Engineering**. I enjoy transforming complex business requirements into clean, maintainable systems while following modern engineering principles.
 
-I am continuously improving my skills in **ASP.NET Core, RESTful APIs, database design, authentication & authorization, and enterprise application development**. I enjoy solving real-world problems through technology and building applications that are secure, maintainable, and efficient.
+I believe software should not only work—it should be reliable, scalable, secure, and built for long-term success.
 
 ### Open To
 
-- Full Stack ASP.NET Developer Opportunities
-- ASP.NET MVC & ASP.NET Core Projects
-- Backend Development
 - Software Engineering Internships
+- Full Stack .NET Development
+- Backend Engineering
+- AI/ML Projects
 - Open Source Collaboration
-- Freelance Web Development
+- Product Engineering Teams
 
 ---
 
@@ -22,94 +67,109 @@ I am continuously improving my skills in **ASP.NET Core, RESTful APIs, database 
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css,sql"/>
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,python,html,css,sql"/>
+
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
+
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgres,mongodb"/>
+
 </p>
+
+## Cloud, DevOps & Tooling
 
 <p align="center">
 
-**ASP.NET MVC • ASP.NET Core • Entity Framework Core • SQL Server**
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,vscode,visualstudio,firebase"/>
 
 </p>
 
-## Tools
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio"/>
-</p>
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| Machine Learning | Intermediate | Model training, preprocessing, evaluation |
+| Deep Learning | Intermediate | Neural networks and practical experimentation |
+| Computer Vision | Intermediate | Image classification and detection fundamentals |
+| Natural Language Processing | Intermediate | Text processing and LLM integration |
+| Generative AI | Advanced | Prompt Engineering, AI APIs, LLM applications |
+| MLOps | Beginner | Model deployment concepts and pipelines |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Student Management System</b></summary>
+<summary><b>Enterprise Identity Platform</b></summary>
 
 ### Overview
 
-A complete ASP.NET MVC web application for managing students, departments, and academic records using the MVC design pattern.
+Enterprise digital identity platform designed with secure authentication, role-based authorization, and scalable architecture.
 
 | Category | Details |
 |----------|---------|
-| Stack | ASP.NET MVC, C#, Entity Framework Core, SQL Server |
-| Scale | Educational |
-| Performance | Optimized CRUD Operations |
-| Security | Server-side Validation & Authentication |
-| Impact | Student Information Management |
-| Repository | https://github.com/YOUR_USERNAME/student-management-system |
+| Stack | ASP.NET Core, SQL Server, EF Core |
+| Scale | Enterprise Ready |
+| Performance | Optimized Queries & Caching |
+| Security | JWT, Identity, Role Based Access |
+| Impact | Digital Identity Management |
+| Repository | https://github.com/yourusername/project |
 
-Designed using the MVC architecture with Entity Framework Core for database access, responsive UI, model validation, and clean project organization.
+Designed following Clean Architecture principles with maintainability, scalability, and security as primary objectives.
 
 </details>
 
 <details>
-<summary><b>Notes Management Application</b></summary>
+<summary><b>AI Productivity Assistant</b></summary>
 
 ### Overview
 
-A lightweight note-taking web application allowing users to create, edit, organize, and delete personal notes.
+AI-powered productivity platform integrating modern language models with enterprise workflows.
 
 | Category | Details |
 |----------|---------|
-| Stack | ASP.NET MVC, C#, SQL Server, Entity Framework Core |
-| Scale | Personal Productivity |
-| Performance | Fast CRUD Operations |
-| Security | Model Validation |
-| Impact | Personal Note Organization |
-| Repository | https://github.com/YOUR_USERNAME/notes-app |
+| Stack | ASP.NET Core, React, OpenAI APIs |
+| Scale | Cloud Ready |
+| Performance | Optimized API Integration |
+| Security | Authentication & Rate Limiting |
+| Impact | Productivity Automation |
+| Repository | https://github.com/yourusername/project |
 
-Built following the MVC pattern with a clean user interface and efficient database integration.
+Focuses on intelligent workflow automation while maintaining enterprise security standards.
 
 </details>
 
 <details>
-<summary><b>Raylon Landing Website</b></summary>
+<summary><b>Full Stack SaaS Platform</b></summary>
 
 ### Overview
 
-A modern responsive landing page designed for the Raylon brand, focusing on clean UI, responsiveness, and professional presentation.
+Modern SaaS application implementing modular architecture and scalable backend services.
 
 | Category | Details |
 |----------|---------|
-| Stack | HTML, CSS, JavaScript, Bootstrap |
-| Scale | Business Website |
+| Stack | React, ASP.NET Core, SQL Server |
+| Scale | Multi-user |
 | Performance | Responsive & Optimized |
-| Security | Static Website |
-| Impact | Brand Presence |
-| Repository | https://github.com/YOUR_USERNAME/raylon-landing |
+| Security | Authentication & Authorization |
+| Impact | Business Productivity |
+| Repository | https://github.com/yourusername/project |
 
-Developed with responsive design principles to provide an elegant user experience across desktop and mobile devices.
+Built with a product-first mindset emphasizing maintainability, performance, and user experience.
 
 </details>
 
@@ -117,39 +177,27 @@ Developed with responsive design principles to provide an elegant user experienc
 
 # Experience
 
-## Full Stack ASP.NET MVC Developer
+## Full Stack .NET Developer
 
-**Personal Projects & Full Stack ASP.NET Training**
+**Personal & Academic Projects**
 
 **2025 – Present**
 
-Developing modern full-stack web applications using Microsoft's ASP.NET ecosystem while continuously improving software engineering skills through hands-on projects.
+Building scalable web applications using modern software engineering practices.
 
 ### Responsibilities
 
-- Develop Full Stack ASP.NET MVC applications
-- Design and normalize SQL Server databases
-- Build responsive user interfaces
-- Implement CRUD functionality
-- Develop RESTful APIs
-- Apply MVC Architecture
-- Implement Authentication & Authorization
-- Work with Entity Framework Core
-- Version Control using Git & GitHub
+- Design scalable backend services
+- Develop responsive frontend applications
+- Implement secure authentication
+- Database design and optimization
+- RESTful API development
+- Agile development workflow
+- Git version control
 
 **Skills**
 
-`ASP.NET MVC`
-`ASP.NET Core`
-`C#`
-`Entity Framework Core`
-`SQL Server`
-`HTML`
-`CSS`
-`JavaScript`
-`Bootstrap`
-`Git`
-`GitHub`
+`ASP.NET Core` `C#` `React` `SQL Server` `Entity Framework` `REST API` `Git`
 
 ---
 
@@ -159,10 +207,98 @@ Developing modern full-stack web applications using Microsoft's ASP.NET ecosyste
 
 | Recognition | Details |
 |-------------|----------|
-| Software Engineering Student | Al-Ahliyya Amman University |
-| Full Stack ASP.NET Developer | Microsoft Technology Stack |
-| GitHub Portfolio | Personal & Academic Projects |
-| Continuous Learner | Software Engineering & Web Development |
+| Academic Excellence | Software Engineering Student |
+| Full Stack Development | ASP.NET Technology Stack |
+| Continuous Learning | AI, Cloud & Software Engineering |
+| Open Source | Active GitHub Contributor |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database-FF0000?style=for-the-badge&logo=oracle)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Professional%20Learning-4F46E5?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/yourusername">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/yourusername">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/yourusername">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/users/yourusername">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -172,33 +308,59 @@ Developing modern full-stack web applications using Microsoft's ASP.NET ecosyste
 
 ```yaml
 Learning:
-  - ASP.NET Core
-  - Clean Architecture
-  - Entity Framework Core
-  - SQL Server Performance Optimization
+  - Advanced ASP.NET Core
+  - Cloud Architecture
+  - AI Engineering
+  - System Design
 
 Building:
-  - Full Stack ASP.NET MVC Applications
-  - Portfolio Projects
-  - Business Management Systems
+  - Enterprise SaaS Applications
+  - Full Stack .NET Solutions
+  - AI Powered Products
 
 Exploring:
   - Azure
-  - REST APIs
-  - Authentication & Identity
-  - Cloud Deployment
+  - Kubernetes
+  - Microservices
+  - DevOps
 
 Open To:
-  - Full Stack ASP.NET Developer Roles
   - Software Engineering Internships
-  - Freelance Projects
-  - Open Source Collaboration
+  - Graduate Roles
+  - Open Source
+  - Research Collaboration
 ```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Building reliable software through clean architecture, continuous learning, and practical problem solving."*
+*"Engineering excellence is achieved through continuous learning, thoughtful design, and relentless execution."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,30:6D28D9,70:7C3AED,100:9333EA"/>
