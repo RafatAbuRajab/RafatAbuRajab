@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,30:6D28D9,70:7C3AED,100:9333EA&text=Rafat%20Abu%20Rajab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,30:6D28D9,70:7C3AED,100:9333EA&text=Rafat%20Abu%20Rajab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20.NET%20Developer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+.NET+Developer;Building+Scalable+Enterprise+Applications;Passionate+About+AI%2C+Cloud+and+Product+Engineering;Always+Learning.+Always+Building."/>
 
