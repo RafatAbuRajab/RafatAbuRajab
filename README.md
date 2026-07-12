@@ -1,153 +1,147 @@
 ````markdown
-# Replace these sections to match your actual profile
-
-## Animated Header (Typing SVG)
-
-```html
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Rafat+AbuRajab;Full+Stack+ASP.NET+MVC+Developer;Software+Engineering+Student;Building+Modern+Web+Applications;Always+Learning.+Always+Building."/>
-```
-
----
-
-## Academic Badges
-
-```md
-![](https://img.shields.io/badge/B.Sc-Software%20Engineering-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Full%20Stack-ASP.NET%20MVC-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/C%23-.NET%20Developer-7C3AED?style=for-the-badge)
-```
-
----
-
-## About
-
-```md
 # About
 
-I am **Rafat AbuRajab**, a **Full Stack ASP.NET MVC Developer** and **Software Engineering student** with a passion for building modern, scalable, and user-focused web applications.
+I am **Rafat AbuRajab**, a **Full Stack ASP.NET MVC Developer** and **Software Engineering student** passionate about building modern, scalable, and user-friendly web applications using Microsoft's technology stack.
 
-My primary expertise lies in the **Microsoft .NET ecosystem**, where I develop complete web solutions using **ASP.NET MVC, C#, Entity Framework Core, SQL Server, HTML, CSS, JavaScript, and Bootstrap**.
+My expertise focuses on designing and developing complete web solutions with **ASP.NET MVC, C#, Entity Framework Core, SQL Server, HTML, CSS, JavaScript, and Bootstrap**. I enjoy transforming ideas into reliable software while following clean architecture principles and software engineering best practices.
 
-I enjoy designing clean architectures, writing maintainable code, and continuously improving my backend and frontend development skills while following software engineering best practices.
+I am continuously improving my skills in **ASP.NET Core, RESTful APIs, database design, authentication & authorization, and enterprise application development**. I enjoy solving real-world problems through technology and building applications that are secure, maintainable, and efficient.
 
-I am currently expanding my knowledge in ASP.NET Core, REST APIs, cloud technologies, and modern software architecture.
-```
-
----
-
-## Open To
-
-```md
 ### Open To
 
-- Full Stack ASP.NET Developer Roles
-- ASP.NET MVC Projects
+- Full Stack ASP.NET Developer Opportunities
+- ASP.NET MVC & ASP.NET Core Projects
 - Backend Development
-- Web Application Development
+- Software Engineering Internships
 - Open Source Collaboration
-- Freelance Opportunities
-```
+- Freelance Web Development
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages
+## Languages
 
-```html
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css,sql"/>
-```
+</p>
 
-### Frontend
+## Frontend
 
-```html
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-```
+</p>
 
-### Backend & Databases
+## Backend & Databases
 
-```html
-<img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+</p>
 
-*(Keep SQL Server in the text because Skill Icons doesn't have a SQL Server icon.)*
+<p align="center">
 
-### Cloud & Tooling
+**ASP.NET MVC • ASP.NET Core • Entity Framework Core • SQL Server**
 
-```html
+</p>
+
+## Tools
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio"/>
-```
+</p>
 
 ---
 
-## Remove Completely
+# Featured Projects
 
-Delete the entire **AI / ML Expertise** section.
+<details>
+<summary><b>Student Management System</b></summary>
 
-Delete these lines from the About section:
+### Overview
 
-- AI Engineering
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- MLOps
-- LLM Integration
-- Generative AI
-- AI APIs
-
-They don't represent your current specialization.
-
----
-
-## Featured Projects
-
-Replace the AI project with another ASP.NET project.
-
-### Example
-
-### Student Management System
+A complete ASP.NET MVC web application for managing students, departments, and academic records using the MVC design pattern.
 
 | Category | Details |
 |----------|---------|
 | Stack | ASP.NET MVC, C#, Entity Framework Core, SQL Server |
 | Scale | Educational |
 | Performance | Optimized CRUD Operations |
-| Security | Model Validation, Authentication |
-| Impact | Student Record Management |
+| Security | Server-side Validation & Authentication |
+| Impact | Student Information Management |
 | Repository | https://github.com/YOUR_USERNAME/student-management-system |
 
-Professional Description:
+Designed using the MVC architecture with Entity Framework Core for database access, responsive UI, model validation, and clean project organization.
 
-A complete ASP.NET MVC application implementing CRUD operations, authentication, Entity Framework Core, SQL Server integration, and responsive UI following the MVC design pattern.
+</details>
+
+<details>
+<summary><b>Notes Management Application</b></summary>
+
+### Overview
+
+A lightweight note-taking web application allowing users to create, edit, organize, and delete personal notes.
+
+| Category | Details |
+|----------|---------|
+| Stack | ASP.NET MVC, C#, SQL Server, Entity Framework Core |
+| Scale | Personal Productivity |
+| Performance | Fast CRUD Operations |
+| Security | Model Validation |
+| Impact | Personal Note Organization |
+| Repository | https://github.com/YOUR_USERNAME/notes-app |
+
+Built following the MVC pattern with a clean user interface and efficient database integration.
+
+</details>
+
+<details>
+<summary><b>Raylon Landing Website</b></summary>
+
+### Overview
+
+A modern responsive landing page designed for the Raylon brand, focusing on clean UI, responsiveness, and professional presentation.
+
+| Category | Details |
+|----------|---------|
+| Stack | HTML, CSS, JavaScript, Bootstrap |
+| Scale | Business Website |
+| Performance | Responsive & Optimized |
+| Security | Static Website |
+| Impact | Brand Presence |
+| Repository | https://github.com/YOUR_USERNAME/raylon-landing |
+
+Developed with responsive design principles to provide an elegant user experience across desktop and mobile devices.
+
+</details>
 
 ---
 
-## Experience
+# Experience
 
-```md
 ## Full Stack ASP.NET MVC Developer
 
-**Personal Projects & Full Stack Training**
+**Personal Projects & Full Stack ASP.NET Training**
 
 **2025 – Present**
 
-Developing full-stack web applications using Microsoft's ASP.NET MVC framework.
+Developing modern full-stack web applications using Microsoft's ASP.NET ecosystem while continuously improving software engineering skills through hands-on projects.
 
 ### Responsibilities
 
-- Build ASP.NET MVC applications
-- Design SQL Server databases
-- Create responsive user interfaces
-- Develop CRUD systems
-- Implement Authentication & Authorization
-- Build REST APIs
+- Develop Full Stack ASP.NET MVC applications
+- Design and normalize SQL Server databases
+- Build responsive user interfaces
+- Implement CRUD functionality
+- Develop RESTful APIs
 - Apply MVC Architecture
-- Version Control using Git
+- Implement Authentication & Authorization
+- Work with Entity Framework Core
+- Version Control using Git & GitHub
 
 **Skills**
 
 `ASP.NET MVC`
+`ASP.NET Core`
 `C#`
 `Entity Framework Core`
 `SQL Server`
@@ -156,62 +150,57 @@ Developing full-stack web applications using Microsoft's ASP.NET MVC framework.
 `JavaScript`
 `Bootstrap`
 `Git`
-```
+`GitHub`
 
 ---
 
-## Achievements
+# Achievements
 
-```md
+<div align="center">
+
 | Recognition | Details |
 |-------------|----------|
 | Software Engineering Student | Al-Ahliyya Amman University |
-| Full Stack ASP.NET Development | Professional Training |
-| GitHub Portfolio | Personal Projects |
-| Continuous Learning | Modern Web Development |
-```
+| Full Stack ASP.NET Developer | Microsoft Technology Stack |
+| GitHub Portfolio | Personal & Academic Projects |
+| Continuous Learner | Software Engineering & Web Development |
+
+</div>
 
 ---
 
-## Certifications
-
-Keep only certifications you actually have.
-
-If you don't have AWS, Oracle, Cisco, or NPTEL certifications yet, **remove those sections entirely**.
-
----
-
-## Current Focus
+# Current Focus
 
 ```yaml
 Learning:
   - ASP.NET Core
+  - Clean Architecture
   - Entity Framework Core
-  - SQL Server
-  - REST APIs
+  - SQL Server Performance Optimization
 
 Building:
-  - Full Stack ASP.NET MVC Projects
+  - Full Stack ASP.NET MVC Applications
   - Portfolio Projects
-  - Business Web Applications
+  - Business Management Systems
 
 Exploring:
-  - Clean Architecture
   - Azure
+  - REST APIs
   - Authentication & Identity
+  - Cloud Deployment
 
 Open To:
-  - Full Stack ASP.NET Roles
-  - Backend Development
+  - Full Stack ASP.NET Developer Roles
+  - Software Engineering Internships
   - Freelance Projects
-  - Internship Opportunities
+  - Open Source Collaboration
 ```
 
 ---
 
-## Quote
+<div align="center">
 
-Replace the quote with:
+*"Building reliable software through clean architecture, continuous learning, and practical problem solving."*
 
-> *"Building reliable software through clean architecture, continuous learning, and practical problem solving."*
+</div>
 ````
